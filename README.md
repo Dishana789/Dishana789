@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dishana</h1>
 <h3 align="center">Passionate IT Student | Building the Future with Code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishana789&label=Profile%20views&color=0e75b6&style=flat" alt="dishana789" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dishana789&label=Profile%20views&color=0e75b6&style=flat" alt="dishana789" /> </p>
 
 - 🌱 I’m currently learning **MERN**
 
@@ -10,6 +10,10 @@
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dinithi-dishana-8118a5318/](https://www.linkedin.com/in/dinithi-dishana-8118a5318/)
 
 - 📫 How to reach me **dishanadinithi@gmail.com**
+
+   ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Dishana789&show_icons=true&theme=tokyonight)  ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dishana789&theme=tokyonight) 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishana789&theme=tokyonight)  ![Github Stars](https://github-readme-stats.vercel.app/api?username=Dishana789&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

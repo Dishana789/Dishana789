@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/dishanahewage](www.linkedin.com/in/dishanahewage)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dishanahewage/](https://www.linkedin.com/in/dishanahewage/)
 
 - 📫 How to reach me **dishanadinithi@gmail.com**
 
@@ -17,8 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dishanahewage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dishanahewage" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dishanahewage/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishanahewage" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
